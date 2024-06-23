@@ -22,8 +22,6 @@
   <li><b><a href="https://www.geeksforgeeks.org/user/prachikakanodia/">GeeksforGeeks</a></b>
 </ul>
   
- 
-  
  # :woman_technologist: Experience
   <ul>
     <li><ins><b>Rakuten | Software Engineer</b></ins> <i>(August' 2023 - Present)</i><br/>
@@ -68,7 +66,6 @@ using Rest API to predict the output.
 
  </ul>
 
-  
  # :trophy: Achievements
   <ul>
     <li>Consistent <b>Honors List Appreciation</b> at JK Lakshmipat University <b>(8+ CGPA).</b></li>
@@ -81,7 +78,6 @@ using Rest API to predict the output.
     <li>Nominated to present <b>Research paper on SDGs 19</b> at International Conference on Innovation in Technolog.y</li>
   </ul>
  
-
 <h1>:computer: Tools and Technologies:</h1>
 <p>
 <a href="https://www.java.com/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/></a>
@@ -89,26 +85,20 @@ using Rest API to predict the output.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/php.png"/>
 <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-<img src="https://img.icons8.com/nolan/64/react-native.png" width="48px" height="48px"/>
   <img src="https://img.icons8.com/fluency/48/undefined/node-js.png"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>
-  <img src="https://img.icons8.com/color/48/000000/php.png"/>
-
    </p>
 
 <h1>📊 My Github Stats</h1>
 
 <a href="https://github.com/prachikakanodia/github-readme-stats"><img alt="Prachika Kanodia's Github Stats" src="https://github-readme-stats.vercel.app/api?username=prachikakanodia&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-
 <!---
 prachikakanodia/prachikakanodia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 
 
