@@ -71,14 +71,14 @@ using Rest API to predict the output.
   
  # :trophy: Achievements
   <ul>
-    <li>Consistent <b>Honors List Appreciation</b> at JK Lakshmipat University <b>(8+ CGPA)</b></li>
-    <li><b>Academic Representative</b> and <b>Coursera Ambassador</b> at JK Lakshipat University for 4 consecutive semesters</li>
-    <li>( 2 :star:) at <b>Codechef</b> (1458 currently)</li>
-    <li><b>715 Global rank</b> at codechef July Long Challenge 21</li>
-    <li>Published 5 images on <a href="https://hub.docker.com/u/pk2507"><b>Docker Hub</b></a> and 4 roles on <a href=" https://galaxy.ansible.com/my-content/namespaces"><b>Ansible Galaxy</b></a> having 20+ downloads</li>
-    <li>Participated in <b>HackRush</b>, Hackathon organized by IITGN 2022</li>
-    <li>Selected for <b>Non-Degree Student Exchange program</b> at IITGN for 6th Semester <b>(8.19/10 CPI)</b></li>
-    <li>Nominated to present <b>Research paper on SDGs 19</b> at International Conference on Innovation in Technology</li>
+    <li>Consistent <b>Honors List Appreciation</b> at JK Lakshmipat University <b>(8+ CGPA).</b></li>
+    <li><b>Academic Representative</b> and <b>Coursera Ambassador</b> at JK Lakshipat University for 4 consecutive semesters.</li>
+    <li>( 2 :star:) at <b>Codechef</b> (1458 currently).</li>
+    <li><b>715 Global rank</b> at codechef July Long Challenge 21.</li>
+    <li>Published 5 images on <a href="https://hub.docker.com/u/pk2507"><b>Docker Hub</b></a> and 4 roles on <a href=" https://galaxy.ansible.com/my-content/namespaces"><b>Ansible Galaxy</b></a> having 20+ downloads.</li>
+    <li>Participated in <b>HackRush</b>, Hackathon organized by IITGN 2022.</li>
+    <li>Selected for <b>Non-Degree Student Exchange program</b> at IITGN for 6th Semester <b>(8.19/10 CPI).</b></li>
+    <li>Nominated to present <b>Research paper on SDGs 19</b> at International Conference on Innovation in Technolog.y</li>
   </ul>
  
 
