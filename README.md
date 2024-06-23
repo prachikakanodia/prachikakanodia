@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">, I am Prachika Kanodia</h1>
 - 👨‍💻 I'm currently working on : MERN development<br>
-- 👀 I’m looking to colaborate on projects based on Web development or Machine Learning using Python <br>
+- 👀 I’m looking to collaborate on projects based on Web development or Machine Learning<br>
 - 🌱 I’m currently learning : Spring Framework<br>
 - 📫 How to reach me : <a href="mailto:prachikakanodia2507@gmail.com">prachikakanodia2507@gmail.com</a><br>
 
@@ -43,14 +43,14 @@
 
 # :pushpin: Projects
  <ul>
-   <li><b><ins>Predicting and Analysing Airbnb Dataset</b></ins> <a href="https://github.com/prachikakanodia2507/Predicting-and-Analysing-Airbnb-Dataset">Code</a><br/> 
+   <li><b><ins>Predicting and Analysing Airbnb Dataset</b></ins> <a href="https://github.com/prachikakanodia2507/Predicting-and-Analysing-Airbnb-Dataset">Source Code</a><br/> 
   Predicted spike in accommodation, Validated the price, Sentiment analysis to get reviews.
-     <li><b><ins>Vehicle Insurance Management System</ins></b> <a href="https://github.com/prachikakanodia2507/Vehicle-Insurance-Management-System">Code</a><br/>
+     <li><b><ins>Vehicle Insurance Management System</ins></b> <a href="https://github.com/prachikakanodia2507/Vehicle-Insurance-Management-System">Source Code</a><br/>
        Developed an application that provides an interface where users can buy the insurance as per policies of vehicles.
-        <li><b><ins>Diabetes Prediction Webapp</ins></b> <a href="https://github.com/prachikakanodia/Flask_Project">Code</a><br/>
+        <li><b><ins>Diabetes Prediction Webapp</ins></b> <a href="https://github.com/prachikakanodia/Flask_Project">Source Code</a><br/>
      Developed an application in which neural network model is saved inside Docker container which further loaded
 using Rest API to predict the output.
-           <li><b><ins>Configuring K8s Multinode Cluster on AWS using Ansible</ins></b> <a href="https://github.com/prachikakanodia/ARTH_task23">Code</a><br/>
+           <li><b><ins>Configuring K8s Multinode Cluster on AWS using Ansible</ins></b> <a href="https://github.com/prachikakanodia/ARTH_task23">Source Code</a><br/>
      Configured Multi Node K8s Cluster over AWS to further launch the WordPress and MySQL using Ansible roles.
  </ul>
  
@@ -75,7 +75,7 @@ using Rest API to predict the output.
     <li><b>Academic Representative</b> and <b>Coursera Ambassador</b> at JK Lakshipat University for 4 consecutive semesters.</li>
     <li>( 2 :star:) at <b>Codechef</b> (1458 currently).</li>
     <li><b>715 Global rank</b> at codechef July Long Challenge 21.</li>
-    <li>Published 5 images on <a href="https://hub.docker.com/u/pk2507"><b>Docker Hub</b></a> and 4 roles on <a href=" https://galaxy.ansible.com/my-content/namespaces"><b>Ansible Galaxy</b></a> having 20+ downloads.</li>
+    <li>Published 5 images on <a href="https://hub.docker.com/u/pk2507">Docker Hub</a> and 4 roles on <a href=" https://galaxy.ansible.com/my-content/namespaces">Ansible Galaxy</a> having 20+ downloads.</li>
     <li>Participated in <b>HackRush</b>, Hackathon organized by IITGN 2022.</li>
     <li>Selected for <b>Non-Degree Student Exchange program</b> at IITGN for 6th Semester <b>(8.19/10 CPI).</b></li>
     <li>Nominated to present <b>Research paper on SDGs 19</b> at International Conference on Innovation in Technolog.y</li>
