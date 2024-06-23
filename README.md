@@ -29,8 +29,8 @@
     <li><ins><b>Rakuten | Software Engineer</b></ins> <i>(August' 2023 - Present)</i><br/>
     <b>Skillset:</b> Full Stack Development, Java, SpringBoot, Data Engineering, MySQL-NoSQL, Linux, Jenkins, Bit-Bucket<br/>
     - Developed end to end RESTful APIs to boost sales from existing AdPlats application by working on billing adjustments. Also involved in bug fixes, performance optimization, and meeting business requirements.<br/>
-    - Key contributor in increasing JUnit code coverage.</b>
-    - Optimized MySQL database queries and enhanced overall application performance.</b>
+    - Key contributor in increasing JUnit code coverage.<br/>
+    - Optimized MySQL database queries and enhanced overall application performance.<br/>
     <li><ins><b>RejoiceHub LLP | Backend Developer Intern </b></ins> <i>(February' 2023 - July' 2023)</i><br/> 
       <b>Skillset:</b> JavaScript, TypeScript, NodeJS, NestJS, Micro Services, MongoDB, Git, GitHub, Postman and others. <br/>
     - Led project Jewellery-CRM, which aimed at developing software that stores data about the designer, design details, and seller, generates reports for the seller, and performs various operations according to the business requirements.<br/>
@@ -43,24 +43,28 @@
 
 # :pushpin: Projects
  <ul>
-   <li><b><ins>Blood Donation Website</b></ins> <a href="https://github.com/Team-Cadmus/Blood_Donation">Code</a> <a href="https://www.youtube.com/watch?v=RIGgzas5rYA">Video</a><br/> 
-   It is a website built using HTML, CSS, JavaScript, MySQL, and PHP which helps in connecting with blood donors. The portal is integrated with OTP verification, chatbot and blood donation eligibility quiz.
-     <li><b><ins>Titanic Survival Prediction</ins></b> <a href="https://github.com/vaishnavi2810-code/Titanic_survival_prediction">Code</a><br/>
-       A Machine Learning model for predicting the survival of passengers aboard RMS Titanic, a British passenger liner that sank in the North Atlantic Ocean.
+   <li><b><ins>Predicting and Analysing Airbnb Dataset</b></ins> <a href="https://github.com/prachikakanodia2507/Predicting-and-Analysing-Airbnb-Dataset">Code</a><br/> 
+  Predicted spike in accommodation, Validated the price, Sentiment analysis to get reviews.
+     <li><b><ins>Vehicle Insurance Management System</ins></b> <a href="https://github.com/prachikakanodia2507/Vehicle-Insurance-Management-System">Code</a><br/>
+       Developed an application that provides an interface where users can buy the insurance as per policies of vehicles.
+        <li><b><ins>Diabetes Prediction Webapp</ins></b> <a href="https://github.com/prachikakanodia/Flask_Project">Code</a><br/>
+     Developed an application in which neural network model is saved inside Docker container which further loaded
+using Rest API to predict the output.
+           <li><b><ins>Configuring K8s Multinode Cluster on AWS using Ansible</ins></b> <a href="https://github.com/prachikakanodia/ARTH_task23">Code</a><br/>
+     Configured Multi Node K8s Cluster over AWS to further launch the WordPress and MySQL using Ansible roles.
  </ul>
  
 # :page_with_curl: Certificates
  <ul>
-    <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000050/Drdo.internship.certificate.pdf">Training Certificate - DRDO</a></b>
-
-   <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000130/CertificateOfCompletion_Become.an.Agile.Project.Manager.pdf">Become an Agile Project Manager</a></b>
-   <li><b><a href="https://user-images.githubusercontent.com/65387125/176156545-e45de0f6-86ba-49e1-ac61-6f0010cd3940.png">SQL (Intermediate)</a></b>
-   <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000129/CertificateOfCompletion_AWS.Essential.Training.for.Developers.pdf">AWS Essential training for Developers</a></b>
-   <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000137/Python.for.Data.Science.pdf">Python for Data Science</a></b>
-   <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000135/Intermediate.Python.pdf">Python Intermediate</a></b>
-   <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000136/Python.Core.pdf">Python Core</a></b>
-   <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000131/Data.Science.pdf">Data Science</a></b>
-   <li><b><a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000101/AppreciationLetter.pdf">Certificate of Appreciation</a></b>
+    <li><b><a href="https://coursera.org/share/4997fff4863d464e83d7b600862e8972">Blockchain Specialization</a></b>
+   <li><b><a href="https://www.coursera.org/account/accomplishments/verify/4QEQJHGDFHGS">Introduction to R Programming for Data Science</a></b>
+   <li><b><a href="https://coursera.org/share/b7b73c8a895ad47e4bc6849c7e8cc66b">AI For Everyone (DeepLearning.AI)</a></b>
+   <li><b><a href="https://www.credly.com/badges/3fa18879-9ce0-4264-aa31-e26ba691df57">CCNA: Introduction to Networks</a></b>
+   <li><b><a href="https://www.coursera.org/account/accomplishments/verify/9L9KLLK6FRKX">Google Cloud Platform Fundamentals: Core Infrastructure</a></b>
+   <li><b><a href="https://www.coursera.org/account/accomplishments/verify/2RYTBMYA8WAH">Data Structures</a></b>
+   <li><b><a href="https://www.coursera.org/account/accomplishments/verify/VRJHFKZ3PJ8G">Introduction to Ordinary Differential Equations</a></b>
+   <li><b><a href="https://www.coursera.org/account/accomplishments/verify/HY39UZAUKMJ3">Python Data Analysis</a></b>
+   <li><b><a href="https://www.coursera.org/account/accomplishments/verify/QXBRXDF82HC4">Critical Thinking Skills for University Success</a></b>
 
  </ul>
 
@@ -72,19 +76,6 @@
     <li><b>Cliff 2</b> - Encipher coding challenge organized by <b>Instabase</b></li>
   </ul>
  
-# 🎯 Shooting
-<ul>
-  <li>:1st_place_medal: <b>Secured 1st Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 56th Gujarat State Shooting Championship ,2021”</b> held at Ahmedabad <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000167/56thGujState.pdf">(Certificate)</a>.
-  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000165/55thGujState2.pdf">(Certificate)</a>.
-  <li>:2nd_place_medal: 	<b>Secured 2nd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Individual in 1st Open Saurashtra Shooting Championship, 2021”</b> held at Rajkot <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000172/Rajkot.championship.pdf">(Certificate)</a>.
-    <li>:3rd_place_medal: 	<b>Secured 3rd Position</b> in <b>“10M Pistol (NR) Championship Women Team of 55th Gujarat State Shooting Championship ,2019”</b> held at Ahmedabad <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000166/55thGujState3.pdf">(Certificate)</a>.
-       <li>:3rd_place_medal: 	<b>Secured 3rd Position</b> in <b>“10M Pistol (NR) Championship Junior Women Individual in 14th RM Halwai Memorial District Shooting Competition, 2020”</b> held at Sports Complex Manjalpur, Vadodara. <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000170/Baroda.Championship.pdf">(Certificate)</a>.
-  <li>Participated in <b>“All India Inter University Shooting Championship 2019”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000169/AIIU2019.pdf">(Certificate)</a>.
-  <li>Qualified for <b>“8th West Zone Shooting Championship Pistol, 2021”</b> and qualified for <b>64th National Shooting Championship</b> <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000163/8thWestZone.pdf">(Certificate)</a>.
-  <li>Participated and qualified in <b>“64th National Shooting Championship Competitions (NSCC) Pistol, 2021”</b> held at Dr. Karni Singh Shooting Range, New Delhi <a href="https://github.com/vaishnavi2810-code/vaishnavi2810-code/files/9000168/64thNSCC.pdf">(Certificate)</a>.
-  </ul>    
-  
-
 
 <h1>:computer: Tools and Technologies:</h1>
 <p>
