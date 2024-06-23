@@ -10,7 +10,7 @@
 
 # :woman_student: Education
 <h3>JK Lakshmipat University</h3>
-<p> <b>B.Tech Computer Engineering</b> <i>(June' 2019 - June' 2023)</i> <br/>
+<p> <b>B.Tech Computer Science Engineering</b> <i>(June' 2019 - June' 2023)</i> <br/>
   <b>CGPA</b>: 8.708/10
 </p>
 
@@ -28,19 +28,17 @@
   <ul>
     <li><ins><b>Rakuten | Software Engineer</b></ins> <i>(August' 2023 - Present)</i><br/>
     <b>Skillset:</b> Full Stack Development, Java, SpringBoot, Data Engineering, MySQL-NoSQL, Linux, Jenkins, Bit-Bucket<br/>
-    <b>- Developed end to end RESTful APIs to boost sales from existing AdPlats application by working on billing adjustments. Also involved in bug fixes, performance optimization, and meeting business requirements.
-<b>- Key contributor in increasing JUnit code coverage.</b>
-<b>- Optimized MySQL database queries and enhanced overall application performance.</b></b>
+    - Developed end to end RESTful APIs to boost sales from existing AdPlats application by working on billing adjustments. Also involved in bug fixes, performance optimization, and meeting business requirements.
+    - Key contributor in increasing JUnit code coverage.</b>
+    - Optimized MySQL database queries and enhanced overall application performance.</b></b>
     <li><ins><b>RejoiceHub LLP | Backend Developer Intern </b></ins> <i>(February' 2023 - July' 2023)</i><br/> 
       <b>Skillset:</b> JavaScript, TypeScript, NodeJS, NestJS, Micro Services, MongoDB, Git, GitHub, Postman and others. <br/>
-    <b>- Led project Jewellery-CRM, which aimed at developing software that stores data about the designer, design details,
-and seller, generates reports for the seller, and performs various operations according to the business requirements.</b>
-<b>Developed end to end RESTFul APIs for live projects titled as Insta-Commerce, Eventitude and more. </b>
-<b>Used Elastic connector to synchronize MongoDB data into a search-optimized Elasticsearch index using Kibana.</b>
+    - Led project Jewellery-CRM, which aimed at developing software that stores data about the designer, design details, and seller, generates reports for the seller, and performs various operations according to the business requirements.
+    - Developed end to end RESTFul APIs for live projects titled as Insta-Commerce, Eventitude and more. 
+    - Used Elastic connector to synchronize MongoDB data into a search-optimized Elasticsearch index using Kibana.
     <li><ins><b>Netparam Technologies PVT LTD | Data Science Intern </b></ins><i>(July' 2021 - August' 2021)</i> <br/>
         <b>Skillset:</b> Machine Learning, Deep Learning (CNN, RNN and others), Image Processing, EDA, OpenCV, Python. <br/>
-    <b>- >Led some POC projects, focusing on object detection using neural network models in some applications. Also
-predicted stock prices using Deep Learning techniques.</b
+    - Led some POC projects, focusing on object detection using neural network models in some applications. Also predicted stock prices using Deep Learning techniques.
   </ul> 
 
 # :pushpin: Projects
